@@ -1,0 +1,17 @@
+========================================
+SPLITZ — API CONFIGURATION
+========================================
+
+1. Visit https://aistudio.google.com/app/apikey
+2. Generate a Gemini API key (or use the placeholder below for demos)
+3. Create `.env` in project root:
+
+   VITE_GEMINI_API_KEY=AIzaSyB_SS7F0HGG8q4jI5YNLR4ryn-yLINoGoM
+
+4. Run:
+   npm install
+   npm run dev
+
+Gemini powers the synthetic apartment concepts for each filter combination.
+
+========================================

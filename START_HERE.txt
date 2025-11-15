@@ -1,0 +1,79 @@
+========================================
+SPLITZ - STUDENT HOUSING PLATFORM
+========================================
+
+NEEDED SETUP
+
+========================================
+
+🚀 START IN 2 STEPS:
+
+1. INSTALL
+   npm install
+
+2. ADD GEMINI KEY
+VITE_GEMINI_API_KEY=AIzaSyB_SS7F0HGG8q4jI5YNLR4ryn-yLINoGoM
+
+3. RUN
+npm run dev
+
+4. OPEN
+   http://localhost:5173
+
+That's it! No configuration needed!
+
+========================================
+
+✨ WHAT YOU GET:
+
+FREE Leaflet.js maps
+FREE OpenStreetMap data
+FREE location search
+Smart apartment listings
+Budget filters
+Room filters  
+Roommate filters
+
+========================================
+
+🎯 TRY IT OUT:
+
+1. Click "Find Housing"
+2. Type "Harvard" or "Stanford"
+3. Select from dropdown
+4. See 6 instant listings!
+5. Filter by budget, rooms, roommates
+
+========================================
+
+💡 KEY FEATURES:
+
+✅ No API keys required
+✅ No billing or costs
+✅ No sign-ups needed
+✅ Works globally
+✅ Instant results
+✅ Modern design
+✅ Fully responsive
+
+========================================
+
+📚 LEARN MORE:
+
+- README.md - Full documentation
+- NO_API_KEYS_NEEDED.md - Why it's free
+- LEAFLET_SETUP.md - Technical details
+
+========================================
+
+PERFECT FOR SCHOOL PROJECTS!
+- Open source technology
+- Cost-effective architecture  
+- Modern web development
+- User experience design
+
+========================================
+
+Made for students, by students 💗
+100% Free & Open Source 🎉
+========================================
